@@ -1,4 +1,4 @@
-Credit Card Segmentation Project
+Credit Card Customer Segmentation Project
 
 Made a dashboard using data from Kaggle
 
